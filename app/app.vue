@@ -4,10 +4,6 @@ const links = [{
   to: '#features',
   exactHash: true
 }, {
-  label: 'Documentation',
-  to: '#',
-  exactHash: true
-}, {
   label: 'Artistes',
   to: '#artistes',
   exactHash: true

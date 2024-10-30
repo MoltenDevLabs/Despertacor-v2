@@ -16,6 +16,5 @@
 </template>
 
 <script setup>
-import { useRepertoriStore } from "../../../stores/repertoriStore.js"
-const repertoriStore = useRepertoriStore();
+
 </script>
